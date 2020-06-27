@@ -28,9 +28,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ### Deployment
 
 if you have this app locally do the following to deploy it to firebase
-- yarn run build
-- firebase init
-    . select build dir
-    . SPA
-    . don't replace index.html file with overrided one
+- yarn run build<br />
+- firebase init<br />
+    . select build dir<br />
+    . SPA<br />
+    . don't replace index.html file with overrided one<br />
 - firebase deploy
