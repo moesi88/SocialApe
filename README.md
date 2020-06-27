@@ -1,5 +1,6 @@
 This project is small social media platform where i practiced using <br /><br />
 -Firebase functions<br />
+-Node.js<br />
 -material-ui<br />
 -React<br />
 -Redux State manegment<br />
