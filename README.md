@@ -1,9 +1,9 @@
-This project is small social media platform where i practiced using 
--Firebase functions
--material-ui
--React
--Redux State manegment
--And how to deploy to Firebase
+This project is small social media platform where i practiced using <br /><br />
+-Firebase functions<br />
+-material-ui<br />
+-React<br />
+-Redux State manegment<br />
+-And how to deploy to Firebase<br />
 
 link to live app is: [SocialApe](https://socialape-6a4b8.web.app).
 
